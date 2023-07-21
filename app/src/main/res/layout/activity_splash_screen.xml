@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreenActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="402dp"
+        android:layout_margin="40dp"
+        app:srcCompat="@drawable/logopng" />
+
+    <TextView
+        android:id="@+id/text_view_id"
+        android:layout_width="262dp"
+        android:layout_height="122dp"
+        android:layout_marginLeft="70dp"
+        android:text="Smart News"
+        android:textColor="#373435"
+        android:textSize="42sp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
