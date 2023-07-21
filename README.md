@@ -4,4 +4,4 @@ Smart News is a News app built using News API .
 # Screenshots
 1.Splash Screen
 
-![s1](https://github.com/rakshit2208/Smart-News/assets/107808348/383ab0aa-034a-40e6-8b1d-c17c15409c34 =200x400)
+<img src="![s1](https://github.com/rakshit2208/Smart-News/assets/107808348/426e0c7e-1b45-413a-adfa-7cedaf58ee8f)" width="200" height="400" />
